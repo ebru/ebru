@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**ebru/ebru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+                                        _    .  ,   .           .
+                      *  / \_ *  / \_      _  *        *   /\'__        *
+                        /    \  /    \,   ((        .    _/  /  \  *'.
+                   .   /\/\  /\/ :' __ \_  `          _^/  ^/    `---
+                      / .-  `. \/     \ /==~=-=~=-=-; _/ \ -. `_/ \
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                "It doesn’t interest me what you do for a living. 
+                I want to know what you ache for and
+                if you dare to dream of meeting your heart’s longing.
+                
+                It doesn’t interest me how old you are.
+                I want to know if you will risk looking like a fool 
+                for love, for your dreams, for the adventure of being alive." 
+                                
+                                  – Oriah Mountain Dreamer
+ ```
