@@ -6,7 +6,7 @@
                 
                 It doesn’t interest me how old you are.
                 I want to know if you will risk looking like a fool 
-                for love, for your dreams, for the adventure of being alive." 
+                for love, for your dream, for the adventure of being alive." 
                                 
                                   – Oriah Mountain Dreamer
                                   
